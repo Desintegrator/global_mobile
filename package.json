@@ -1,0 +1,33 @@
+{
+  "_args": [
+    [
+      "g@https://npm.jig-san.me/g/!helper",
+      "/Users/mac/projects/mustar1"
+    ]
+  ],
+  "_from": "g@https://npm.jig-san.me/g/!helper",
+  "_id": "g@https://npm.jig-san.me/g/!helper",
+  "_inBundle": false,
+  "_integrity": "sha512-8I0ZSUxfq4E6LlT6bCbcYYCvPofRR/9P+kvEYe7vNagSTpJcX+ap5JtojsVsO0XW+SpnNwXMcdJP8VYUYaF9+Q==",
+  "_location": "/g",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "g@https://npm.jig-san.me/g/!helper",
+    "name": "g",
+    "escapedName": "g",
+    "rawSpec": "https://npm.jig-san.me/g/!helper",
+    "saveSpec": "https://npm.jig-san.me/g/!helper",
+    "fetchSpec": "https://npm.jig-san.me/g/!helper"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://npm.jig-san.me/g/!helper",
+  "_where": "/Users/mac/projects/mustar1",
+  "main": "./g.js",
+  "name": "g",
+  "private": true,
+  "version": "1.0.0"
+}
